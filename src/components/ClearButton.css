@@ -1,0 +1,11 @@
+.clear-button {
+  display: flex;
+  height: 4em;
+  justify-content: center;
+  align-items: center;
+  background-color: #c5c3cd;
+  width: 100%;
+  color: #000000;
+  flex: 1;
+  outline: 1px solid #888888;
+}
